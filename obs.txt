@@ -1,0 +1,5 @@
+Fluxo de criação:
+
+1- Repository
+2- Service
+3- route
